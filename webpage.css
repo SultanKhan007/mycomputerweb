@@ -1,0 +1,88 @@
+.pic01{
+    height: 400px;
+    width: 1400px;
+    padding-left: 40px;
+}
+h1{
+    text-align: center;
+}
+.pg1{
+    width: 500px;
+    text-align: center;
+    padding-left: 500px;
+}
+.p1{
+    /* height: 300px; */
+    width: 250px;
+    /* margin-left: 300px; */
+}
+.card01{
+    box-shadow: 0 4px 8px;
+    width:300px ;
+    height: 380px;
+    padding-left: 80px;
+    padding-right: 00px;
+}
+.p2{
+    height: 250px;
+    padding-top: 20px;
+}
+.card02{
+    box-shadow: 0 4px 8px;
+    height: 380px;
+    width: 380px;
+    margin-left: 500px;
+    position:absolute;
+    top:635px;
+    text-align: center;
+}
+.p3{
+    padding-top: 20px;
+
+}
+.card03{
+    box-shadow: 0 4px 8px;
+    height: 380px;
+    width: 380px;
+    margin-left: 900px;
+    position:absolute;
+    top:635px;
+    text-align: center;
+
+}
+.lastp{
+    height: 300px;
+    width: 1050px;
+    padding-left: 180px;
+}
+.nwp{
+    height: 250px;
+    width:250px;
+    padding-top: 20px;
+    /* box-shadow: 0px 0px 10px; */
+    /* border-radius: 50px; */
+    
+}
+.nwd{
+    box-shadow: 0 4px 8px;
+    width: 380px;
+    height: 380px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 16px;
+
+}
+.xyz{
+
+    
+    position: absolute;
+    top: 20px;
+    font-size: 20px;
+    
+}
+
+a:hover{
+
+    background-color: rgb(37, 6, 51);
+    
+}
